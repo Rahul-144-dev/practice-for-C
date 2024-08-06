@@ -1,0 +1,22 @@
+{
+    "files.associations": {
+        "stdio.h": "c",
+        "math.h": "c"
+    },
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true,
+        "**/Thumbs.db": true,
+        "**/.vscode": true,
+        ".vscode": true,
+        "**/desktop.ini": true,
+        "*.ini": true,
+        "desktop.ini": true,
+        "**/*.ini": true
+    },
+    "explorerExclude.backup": {},
+    "AllAutocomplete.showCurrentDocument": true
+}
