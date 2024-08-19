@@ -1,5 +1,5 @@
 // reads and prints the elements of an array of length 7.
-// Before printing, replace every negative number, zero, with 100
+// Before printing, replace every negative number & zero, with 100
 #include <stdio.h>
 #include <math.h>
 int main()
