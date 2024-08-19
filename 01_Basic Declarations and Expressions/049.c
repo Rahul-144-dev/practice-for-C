@@ -15,9 +15,10 @@ int main()
 	}
 	return 0;
 }
+//* Output
 //. enter first element of the array : 2
-// arr[0] = 2
-// arr[1] = 6
-// arr[2] = 18
-// arr[3] = 54
-// arr[4] = 162
+//  arr[0] = 2
+//  arr[1] = 6
+//  arr[2] = 18
+//  arr[3] = 54
+//  arr[4] = 162
