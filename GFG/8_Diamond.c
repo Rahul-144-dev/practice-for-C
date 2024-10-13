@@ -2,7 +2,7 @@
 #include <stdio.h>
 int main()
 {
-  int n=5;
+  int n = 5;
   // printf("enter number : ");
   // scanf("%d", &n);
   // first outer loop to iterate through each row
@@ -17,7 +17,7 @@ int main()
     // first inner loop to print leading whitespaces
     for (int j = 0; j < comp; j++)
     {
-      printf("-");
+      printf("-", j);
     }
     // second inner loop to print number
     for (int k = 0; k < 2 * n - comp; k++)
